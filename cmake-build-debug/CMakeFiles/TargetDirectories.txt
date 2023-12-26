@@ -1,0 +1,3 @@
+/Users/artur/Desktop/nauka/martynkaprojekt/cmake-build-debug/CMakeFiles/martynkaprojekt.dir
+/Users/artur/Desktop/nauka/martynkaprojekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/artur/Desktop/nauka/martynkaprojekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
